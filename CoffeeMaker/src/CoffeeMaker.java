@@ -1,5 +1,6 @@
 public class CoffeeMaker {
 
+//testing github Nitia comment here
 	/** Inventory in the coffee maker */
 	private int coffee;
 	private int milk;
